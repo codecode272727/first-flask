@@ -9,7 +9,7 @@ def index():
 
 @app.route('/user/<username>')
 def show(username):
-    return f"Hi {username[0:3]}"
+    return f"Hi {username}"
 
 
 if __name__ == '__main__':
