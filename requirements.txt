@@ -5,6 +5,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 pipenv==2018.11.26
+python-dotenv==0.10.1
 virtualenv==16.5.0
 virtualenv-clone==0.5.3
 Werkzeug==0.15.2
